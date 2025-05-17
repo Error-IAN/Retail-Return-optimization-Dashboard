@@ -20,6 +20,29 @@ To investigate patterns in product returns and uncover:
 The goal is to generate **actionable recommendations** that improve profitability and operational efficiency.
 
 ---
+## 📊 Dashboard Preview
+
+### 🖥️ Page 1 – Overview & Regional Trends
+
+![Dashboard Page 1](dashboard_page1.png)
+
+Highlights:
+- Return rates by region and segment
+- Top returned products and cities
+- KPI cards showing Order Return %, Product Return %, Quantity Return %, Avg Delivery Time
+
+---
+
+### 📈 Page 2 – MoM Trends & Discount Impact
+
+![Dashboard Page 2](dashboard_page2.png)
+
+Highlights:
+- Month-over-Month Revenue vs. Return %
+- Return rate vs. discount frequency by region
+- Insightful patterns showing how discounting impacts return volume
+
+---
 
 ## 🗃️ Dataset Overview
 
@@ -34,15 +57,7 @@ The goal is to generate **actionable recommendations** that improve profitabilit
 
 ---
 
-## 📊 Dashboard Preview
-
-![Retail Returns Dashboard](images/dashboard_page1.png)
-
-
-
----
-
-## 🧮 Key Metrics Calculated (SQL)
+## 🧮 Key Metrics Calculated
 
 | KPI                    | Description                                      |
 |------------------------|--------------------------------------------------|
