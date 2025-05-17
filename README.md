@@ -34,6 +34,13 @@ The goal is to generate **actionable recommendations** that improve profitabilit
 
 ---
 
+## 📊 Dashboard Preview
+
+![Retail Returns Dashboard](images/dashboard_page1.png)(images/dashboard_page2.png)
+
+
+---
+
 ## 🧮 Key Metrics Calculated (SQL)
 
 | KPI                    | Description                                      |
