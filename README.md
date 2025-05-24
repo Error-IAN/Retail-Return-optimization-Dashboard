@@ -110,7 +110,3 @@ Highlights:
 5. **Logistics Optimization**: Optimize delivery for Home Office customers, who may have stricter expectations.
 
 ---
-
-
-## 📁 Folder Structure
-
